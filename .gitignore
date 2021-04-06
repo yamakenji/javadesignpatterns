@@ -163,3 +163,7 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/java,gradle,intellij,visualstudiocode
 # Ignore Gradle build output directory
 build
+app/.settings/org.eclipse.buildship.core.prefs
+.project
+.settings/org.eclipse.buildship.core.prefs
+app/.classpath
