@@ -167,3 +167,5 @@ app/.settings/org.eclipse.buildship.core.prefs
 .project
 .settings/org.eclipse.buildship.core.prefs
 app/.classpath
+app/src/main/java/javadesignpatterns/iterator/Main.java
+.idea/codeStyles/Project.xml
